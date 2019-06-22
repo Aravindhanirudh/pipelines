@@ -29,6 +29,15 @@ pipeline {
 			}
 
 		}
+		stage (fourthStage) {
+			steps {
+
+			println "this is fourth stage"
+
+			}
+
+		}
+
 
 
 
